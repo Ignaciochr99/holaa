@@ -8,3 +8,4 @@ Important steps for GIT Workflow:
 4. Stage changes for commit
 5. COmmit changes to version history
 6. Review preview
+## Table of Contents
