@@ -8,6 +8,7 @@ Important steps for GIT Workflow:
 4. Stage changes for commit
 5. COmmit changes to version history
 6. Review preview
+7. Get Bitches on ya dick
 ## Table of Contents
 sdasdsadaskdmnsofndsflwenafdowneasfiwneadfocenasdiocwendsacidsfcads
 fwsdfncasdkfcwsdinfacasdfjcnesdf
